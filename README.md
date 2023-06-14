@@ -1,4 +1,4 @@
-### [Le Wagon Workshop Challenge](#https://github.com/lewagon)
+### [Le Wagon Workshop Challenge](https://github.com/lewagon)
 
 *11 June 2023*
 
